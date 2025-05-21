@@ -13,11 +13,10 @@ A simple Java-based Task Manager with GUI to manage tasks and subtasks effective
 ``` bash
 ms1/
 ├── src/
-│ ├── ToDoListGUI.java
-│ ├── task.java
-│ └── subtask.java
-└── bin/
-└── Compiled class files
+│   ├── ToDoListGUI.java
+│   ├── task.java
+│   └── subtask.java
+
 ``` 
 
 ## How to Run
